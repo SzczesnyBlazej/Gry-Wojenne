@@ -1,0 +1,9 @@
+Armia 1
+Ilość monet: 1128.3
+Ilość żołnierzy: 4
+-Żołnierz 1 ranks=Capral, experience=3, force=6
+-Żołnierz 2 ranks=Capral, experience=3, force=6
+-Żołnierz 3 ranks=Capral, experience=6, force=12
+-Żołnierz X ranks=Major, experience=5, force=20
+
+Łączna siła armi: 44

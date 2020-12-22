@@ -1,0 +1,7 @@
+Armia 2
+Ilość monet: 785.7
+Ilość żołnierzy: 2
+-Żołnierz 4 ranks=Serial, experience=1, force=1
+-Żołnierz 5 ranks=Serial, experience=1, force=1
+
+Łączna siła armi: 2
